@@ -1,2 +1,2 @@
-Ejemplo Practico Para Crear Un Readme 
-Con Actualizaciones
+“Mi primer commit desde GitHub 
+Desktop
